@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 
-setup(name='blockchain',
+setup(name='pyblockchain',
       version='0.1',
-      url='https://github.com/jkjk101/blockchain',
+      url='https://github.com/jkjk101/pyblockchain',
       license='MIT',
       author='jkjk101',
       author_email='jksm101852@gmail.com',
