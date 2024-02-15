@@ -1,6 +1,5 @@
 from setuptools import setup, find_packages
 
-
 setup(name='pyblockchain',
       version='0.1',
       url='https://github.com/jkjk101/pyblockchain',
